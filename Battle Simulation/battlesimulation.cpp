@@ -4,9 +4,8 @@
 int main() {
     std::string input;
     std::cin >> input;
-    int input_size = input.length();
-    for(int i = 0; i < input_size; ++i) {
-        if(i + 2 < input_size && 
+    for(int i = 0; i < input.length(); ++i) {
+        if(i + 2 < input.length() && 
            input[i] != input[i + 1] && 
            input[i] != input[i + 2] && 
            input[i + 1] != input[i + 2]) {
