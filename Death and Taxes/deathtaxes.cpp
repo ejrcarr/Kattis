@@ -28,7 +28,7 @@ int main() {
             double crowns_per_share;
             std::cin >> crowns_per_share;
             double profit = (crowns_per_share - average_cost) * total_shares;
-            double tax = profit > 0 ? profit * 0.30 : 0;
+            double tax = profit > 0 ? profit * 0.30 : 0; 
             std::cout.precision(10);
             std::cout << std::fixed << (total_shares * crowns_per_share) - tax << std::endl;
             break;
