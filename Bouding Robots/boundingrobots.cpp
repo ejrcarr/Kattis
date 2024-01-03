@@ -9,7 +9,6 @@ int main() {
             char direction;
             int walk_length;
             std::cin >> direction >> walk_length;
-
             bool IS_VERTICAL = (direction == 'u' || direction == 'd');
             bool IS_POSITIVE = (direction == 'u' || direction == 'r');
             int delta = (IS_POSITIVE ? 1 : -1) * walk_length;;
