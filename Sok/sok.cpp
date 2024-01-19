@@ -16,5 +16,5 @@ int main() {
     double p_left = p - limit * pineapple_ratio;
 
     printf("%lf %lf %lf", o_left, a_left, p_left);
-    return 0;
+    return 0; 
 }
