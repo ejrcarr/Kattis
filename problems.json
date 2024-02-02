@@ -1,1784 +1,2195 @@
 [
-	{
-		"name": "4 thought",
-		"filename": "4thought",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/4thought",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "3.2",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "99 Problems",
-		"filename": "99problems",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/99problems",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "2.8",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "A Different Problem",
-		"filename": "different",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/different",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "2.9",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "ABC",
-		"filename": "abc",
-		"languages": ["Python"],
-		"url": "https://open.kattis.com/problems/abc",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "ACM Contest Scoring",
-		"filename": "acm",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/acm",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.0",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "ASCII kassi",
-		"filename": "asciikassi",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/asciikassi",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4 - 1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Add Two Numbers",
-		"filename": "addtwonumbers",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/addtwonumbers",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Adding Trouble",
-		"filename": "addingtrouble",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/addingtrouble",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Akcija",
-		"filename": "akcija",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/akcija",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "2.8",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Amalgamated Artichokes",
-		"filename": "artichoke",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/artichoke",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.7",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Amer\u00edskur vinnusta\u00f0ur",
-		"filename": "ameriskur",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/ameriskur",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Another Brick in the Wall",
-		"filename": "anotherbrick",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/anotherbrick",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Apaxiaaaaaaaaaaaans!",
-		"filename": "apaxiaaans",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/apaxiaaans",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Army Strength (Easy)",
-		"filename": "armystrengtheasy",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/armystrengtheasy",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.2",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Army Strength (Hard)",
-		"filename": "armystrengthhard",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/armystrengthhard",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.2",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Autori",
-		"filename": "autori",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/autori",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Awkward Party",
-		"filename": "awkwardparty",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/awkwardparty",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "3.0",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Baby Bites",
-		"filename": "babybites",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/babybites",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.9",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Basic Programming 1",
-		"filename": "basicprogramming1",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/basicprogramming1",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "1.3 - 4.7",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Basketball One-on-One",
-		"filename": "basketballoneonone",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/basketballoneonone",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.6",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Batter Up",
-		"filename": "batterup",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/batterup",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Battle Simulation",
-		"filename": "battlesimulation",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/battlesimulation",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.7",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Battleship",
-		"filename": "battleship",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/battleship",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "4.7",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Beekeeper",
-		"filename": "beekeeper",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/beekeeper",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.7",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Bela",
-		"filename": "bela",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/bela",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Betting",
-		"filename": "betting",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/betting",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Bijele",
-		"filename": "bijele",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/bijele",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Bits Equalizer",
-		"filename": "bitsequalizer",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/bitsequalizer",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "4.1",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Boss Battle",
-		"filename": "bossbattle",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/bossbattle",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.8",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Bottled-Up Feelings",
-		"filename": "bottledup",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/bottledup",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Bouding Robots",
-		"filename": "boundingrobots",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/boundingrobots",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.9",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Broken Swords",
-		"filename": "brokenswords",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/brokenswords",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.9",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Carousel Rides",
-		"filename": "carousel",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/carousel",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.6",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Cetiri",
-		"filename": "cetiri",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/cetiri",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.9",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Cetvrta",
-		"filename": "cetvrta",
-		"languages": ["C++", "Python"],
-		"url": "https://open.kattis.com/problems/cetvrta",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Chanukah Challenge",
-		"filename": "chanukah",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/chanukah",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Chess",
-		"filename": "chess",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/chess",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "3.1",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Class Field Trip",
-		"filename": "classfieldtrip",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/classfieldtrip",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Climbing Stairs",
-		"filename": "climbingstairs",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/climbingstairs",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "4.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Climbing Worm",
-		"filename": "climbingworm",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/climbingworm",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.6",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Coast Length",
-		"filename": "coast",
-		"languages": ["Python"],
-		"url": "https://open.kattis.com/problems/coast",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "3.2",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Code Cleanups",
-		"filename": "codecleanups",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/codecleanups",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "3.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Cold-puter Science",
-		"filename": "cold",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/cold",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Combination Lock",
-		"filename": "combinationlock",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/combinationlock",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "3.1",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Connect the Dots",
-		"filename": "connectthedots",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/connectthedots",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "3.7",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Count the Vowels",
-		"filename": "countthevowels",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/countthevowels",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Cow Crane",
-		"filename": "cowcrane",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/cowcrane",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "3.6",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Cryptographer's Conundrum",
-		"filename": "conundrum",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/conundrum",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Cudoviste",
-		"filename": "cudoviste",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/cudoviste",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Cut the Negativity",
-		"filename": "cutthenegativity",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/cutthenegativity",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "DRM Messages",
-		"filename": "drmmessages",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/drmmessages",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Death and Taxes",
-		"filename": "deathtaxes",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/deathtaxes",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "3.1",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Delicious Bubble Tea",
-		"filename": "bubbletea",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/bubbletea",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "2.8",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Detailed Differences",
-		"filename": "detaileddifferences",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/detaileddifferences",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Dice Cup",
-		"filename": "dicecup",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/dicecup",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Digit Swap",
-		"filename": "digitswap",
-		"languages": ["Python"],
-		"url": "https://open.kattis.com/problems/digitswap",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Digits",
-		"filename": "digits",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/digits",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "3.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Drinking Song",
-		"filename": "drinkingsong",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/drinkingsong",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Driver's Dilemma",
-		"filename": "driversdilemma",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/driversdilemma",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Echo Echo Echo",
-		"filename": "echoechoecho",
-		"languages": ["Python"],
-		"url": "https://open.kattis.com/problems/echoechoecho",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Ekki dau\u00f0i opna inni",
-		"filename": "ekkidaudi",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/ekkidaudi",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4 - 1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Eligibility",
-		"filename": "eligibility",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/eligibility",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.6",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Emag Eht Htiw Em Pleh",
-		"filename": "empleh",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/empleh",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.8",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Event Planning",
-		"filename": "eventplanning",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/eventplanning",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.2",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Exactly Electrical",
-		"filename": "exactlyelectrical",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/exactlyelectrical",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.2",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "FYI",
-		"filename": "fyi",
-		"languages": ["Python"],
-		"url": "https://open.kattis.com/problems/fyi",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Faktor",
-		"filename": "faktor",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/faktor",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Fast Food Prizes",
-		"filename": "fastfood",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/fastfood",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.0",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Filip",
-		"filename": "filip",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/filip",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Finding An A",
-		"filename": "findingana",
-		"languages": ["Python"],
-		"url": "https://open.kattis.com/problems/findingana",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Firefly",
-		"filename": "firefly",
-		"languages": ["Python"],
-		"url": "https://open.kattis.com/problems/firefly",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "3.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "FizzBuzz",
-		"filename": "fizzbuzz",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/fizzbuzz",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Flatb\u00f6kuveisla",
-		"filename": "flatbokuveisla",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/flatbokuveisla",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.2",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Fl\u00fdtibaka",
-		"filename": "flytibaka",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/flytibaka",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Framt\u00ed\u00f0ar FIFA",
-		"filename": "fifa",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/fifa",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.2",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "GCVWR",
-		"filename": "gcvwr",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/gcvwr",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Game Rank",
-		"filename": "gamerank",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/gamerank",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "3.6",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Goomba Stacks",
-		"filename": "goombastacks",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/goombastacks",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Grass Seed Inc.",
-		"filename": "grassseed",
-		"languages": ["Python"],
-		"url": "https://open.kattis.com/problems/grassseed",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Greetings\u01c3",
-		"filename": "greetings2",
-		"languages": ["Python"],
-		"url": "https://open.kattis.com/problems/greetings2",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Guessing Game",
-		"filename": "guessinggame",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/guessinggame",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "3.2",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Hanging Out on the Terrace",
-		"filename": "hangingout",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/hangingout",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.6",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Heart Rate",
-		"filename": "heartrate",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/heartrate",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Hello World\u01c3",
-		"filename": "hello",
-		"languages": ["Python"],
-		"url": "https://open.kattis.com/problems/hello",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.1",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Help Me With The Game",
-		"filename": "helpme",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/helpme",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "3.0",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Help a PhD candidate out\u01c3",
-		"filename": "helpaphd",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/helpaphd",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.7",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Herman",
-		"filename": "herman",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/herman",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.7",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Hide CPR Number",
-		"filename": "cprnummer",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/cprnummer",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Hissing Microphone",
-		"filename": "hissingmicrophone",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/hissingmicrophone",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Homework",
-		"filename": "heimavinna",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/heimavinna",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.1 - 1.6",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Hot Hike",
-		"filename": "hothike",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/hothike",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.1",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Howl",
-		"filename": "howl",
-		"languages": ["Python", "C++"],
-		"url": "https://open.kattis.com/problems/howl",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Hra\u00f0greining",
-		"filename": "hradgreining",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/hradgreining",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.2 - 1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "I've Been Everywhere, Man",
-		"filename": "everywhere",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/everywhere",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Integer Lists",
-		"filename": "integerlists",
-		"languages": ["Python"],
-		"url": "https://open.kattis.com/problems/integerlists",
-		"difficulty_name": "Hard",
-		"difficulty_rating": "5.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "IsItHalloween.com",
-		"filename": "isithalloween",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/isithalloween",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Jack-O'-Lantern Juxtaposition",
-		"filename": "jackolanternjuxtaposition",
-		"languages": ["Python"],
-		"url": "https://open.kattis.com/problems/jackolanternjuxtaposition",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Job Expenses",
-		"filename": "jobexpenses",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/jobexpenses",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Judging Moose",
-		"filename": "judgingmoose",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/judgingmoose",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Jumbo Javelin",
-		"filename": "jumbojavelin",
-		"languages": ["Python"],
-		"url": "https://open.kattis.com/problems/jumbojavelin",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Karte",
-		"filename": "karte",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/karte",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.6",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Kiki Boba",
-		"filename": "kikiboba",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/kikiboba",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.2 - 1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Knight Packing",
-		"filename": "knightpacking",
-		"languages": ["Python"],
-		"url": "https://open.kattis.com/problems/knightpacking",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.2",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Knot Knowledge",
-		"filename": "knotknowledge",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/knotknowledge",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Ladder",
-		"filename": "ladder",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/ladder",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Last Factorial Digit",
-		"filename": "lastfactorialdigit",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/lastfactorialdigit",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Left Beehind",
-		"filename": "leftbeehind",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/leftbeehind",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.9",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Leggja saman",
-		"filename": "leggjasaman",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/leggjasaman",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "License to Launch",
-		"filename": "licensetolaunch",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/licensetolaunch",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.6",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Line Them Up",
-		"filename": "lineup",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/lineup",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.6",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Lost Lineup",
-		"filename": "lostlineup",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/lostlineup",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.6",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Magic Trick",
-		"filename": "magictrick",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/magictrick",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Memory Match",
-		"filename": "memorymatch",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/memorymatch",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "4.1",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Message",
-		"filename": "meddelande",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/meddelande",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4 - 1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Metronome",
-		"filename": "metronome",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/metronome",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.2",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Mia",
-		"filename": "mia",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/mia",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.2",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Millif\u00e6rsla",
-		"filename": "millifaersla",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/millifaersla",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.2",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Missing Numbers",
-		"filename": "missingnumbers",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/missingnumbers",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.8",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Modulo",
-		"filename": "modulo",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/modulo",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Monopoly",
-		"filename": "monopol",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/monopol",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Moscow Dream",
-		"filename": "moscowdream",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/moscowdream",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.0",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Mosquito Multiplication",
-		"filename": "mosquito",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/mosquito",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.9",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "N-sum",
-		"filename": "nsum",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/nsum",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Nasty Hacks",
-		"filename": "nastyhacks",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/nastyhacks",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "No Duplicates",
-		"filename": "nodup",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/nodup",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Number Fun",
-		"filename": "numberfun",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/numberfun",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Odd Echo",
-		"filename": "oddecho",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/oddecho",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Odd Gnome",
-		"filename": "oddgnome",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/oddgnome",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.8",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Odd Man Out",
-		"filename": "oddmanout",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/oddmanout",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Oddities",
-		"filename": "oddities",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/oddities",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "One Chicken Per Person\u01c3",
-		"filename": "onechicken",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/onechicken",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.8",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Path Tracing",
-		"filename": "pathtracing",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/pathtracing",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "3.0",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Pea Soup and Pancakes",
-		"filename": "peasoup",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/peasoup",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "2.9",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Pet",
-		"filename": "pet",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/pet",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Piece of Cake\u01c3",
-		"filename": "pieceofcake2",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/pieceofcake2",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Planina",
-		"filename": "planina",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/planina",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.6",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Pokechat",
-		"filename": "pokechat",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/pokechat",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Poker Hand",
-		"filename": "pokerhand",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/pokerhand",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.6",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Popular Vote",
-		"filename": "vote",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/vote",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.1",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Pot",
-		"filename": "pot",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/pot",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Prerequisites?",
-		"filename": "prerequisites",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/prerequisites",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.1",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Prj\u00f3namynstur",
-		"filename": "prjonamynstur",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/prjonamynstur",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3 - 1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Provinces and Gold",
-		"filename": "provincesandgold",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/provincesandgold",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Ptice",
-		"filename": "ptice",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/ptice",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.6",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Quadrant Selection",
-		"filename": "quadrant",
-		"languages": ["Python"],
-		"url": "https://open.kattis.com/problems/quadrant",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.2",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Quality-Adjusted Life-Year",
-		"filename": "qaly",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/qaly",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "R2",
-		"filename": "r2",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/r2",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Reduplication",
-		"filename": "reduplikation",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/reduplikation",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.2",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Reversed Binary Numbers",
-		"filename": "reversebinary",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/reversebinary",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Roaming Romans",
-		"filename": "romans",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/romans",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.7",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Rock-Paper-Scissors Tournament",
-		"filename": "rockpaperscissors",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/rockpaperscissors",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "4.0",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Room Painting",
-		"filename": "roompainting",
-		"languages": ["Python"],
-		"url": "https://open.kattis.com/problems/roompainting",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "3.1",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "SMIL",
-		"filename": "smil",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/smil",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4 - 1.6",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Seven Wonders",
-		"filename": "sevenwonders",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/sevenwonders",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.6",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Shattered Cake",
-		"filename": "shatteredcake",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/shatteredcake",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.6",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Shuffling Along",
-		"filename": "shuffling",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/shuffling",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.7",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Sibice",
-		"filename": "sibice",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/sibice",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Sim",
-		"filename": "sim",
-		"languages": ["Python"],
-		"url": "https://open.kattis.com/problems/sim",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "3.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Sith",
-		"filename": "sith",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/sith",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Skammst\u00f6fun",
-		"filename": "skammstofun",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/skammstofun",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3 - 1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Sok",
-		"filename": "sok",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/sok",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.9",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Solving for Carrots",
-		"filename": "carrots",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/carrots",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Sort Two Numbers",
-		"filename": "sorttwonumbers",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/sorttwonumbers",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Spavanac",
-		"filename": "spavanac",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/spavanac",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Speed Limit",
-		"filename": "speedlimit",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/speedlimit",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.6",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Spritt",
-		"filename": "spritt",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/spritt",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Stand on Zanzibar",
-		"filename": "zanzibar",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/zanzibar",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Star Arrangements",
-		"filename": "stararrangements",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/stararrangements",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.7",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Statistics",
-		"filename": "statistics",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/statistics",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.8",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Stuck In A Time Loop",
-		"filename": "timeloop",
-		"languages": ["Python"],
-		"url": "https://open.kattis.com/problems/timeloop",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Sum Squared Digits Function",
-		"filename": "sumsquareddigits",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/sumsquareddigits",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "S\u00f3ttkv\u00ed",
-		"filename": "sottkvi",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/sottkvi",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Take Two Stones",
-		"filename": "twostones",
-		"languages": ["Python"],
-		"url": "https://open.kattis.com/problems/twostones",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.2",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Tarifa",
-		"filename": "tarifa",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/tarifa",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Thanos",
-		"filename": "thanos",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/thanos",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "The Last Problem",
-		"filename": "thelastproblem",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/thelastproblem",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Tic Tac Toe",
-		"filename": "tictactoe2",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/tictactoe2",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "5.1",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Time Travelling Temperatures",
-		"filename": "temperature",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/temperature",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "2.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Treasure Hunt",
-		"filename": "treasurehunt",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/treasurehunt",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "2.8",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Triangle Area",
-		"filename": "triarea",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/triarea",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Triangle Containment",
-		"filename": "trianglecontainment",
-		"languages": ["Python", "C++"],
-		"url": "https://open.kattis.com/problems/trianglecontainment",
-		"difficulty_name": "Hard",
-		"difficulty_rating": "6.7",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Trik",
-		"filename": "trik",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/trik",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Turtle Master",
-		"filename": "turtlemaster",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/turtlemaster",
-		"difficulty_name": "Medium",
-		"difficulty_rating": "3.0",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Two-sum",
-		"filename": "twosum",
-		"languages": ["Python"],
-		"url": "https://open.kattis.com/problems/twosum",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "T\u00f6lvunarfr\u00e6\u00f0ingar telja",
-		"filename": "tolvunarfraedingartelja",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/tolvunarfraedingartelja",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.2",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Umfer\u00f0",
-		"filename": "umferd",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/umferd",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Undead or Alive",
-		"filename": "undeadoralive",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/undeadoralive",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Vef\u00fej\u00f3natj\u00f3n",
-		"filename": "vefthjonatjon",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/vefthjonatjon",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Velkomin!",
-		"filename": "velkomin",
-		"languages": ["Python"],
-		"url": "https://open.kattis.com/problems/velkomin",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.1",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Ve\u00f0ur - Loka\u00f0ar hei\u00f0ar",
-		"filename": "vedurheidar",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/vedurheidar",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Vi\u00f0sn\u00faningur",
-		"filename": "vidsnuningur",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/vidsnuningur",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.2",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Volim",
-		"filename": "volim",
-		"languages": ["Python", "C++"],
-		"url": "https://open.kattis.com/problems/volim",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.8",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Weak Vertices",
-		"filename": "weakvertices",
-		"languages": ["Python"],
-		"url": "https://open.kattis.com/problems/weakvertices",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.5",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Which is Greater?",
-		"filename": "whichisgreater",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/whichisgreater",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.3",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Yin and Yang Stones",
-		"filename": "yinyangstones",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/yinyangstones",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.8",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "Zamka",
-		"filename": "zamka",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/zamka",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.4",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "\u00c1 lei\u00f0 \u00ed b\u00ed\u00f3",
-		"filename": "aleidibio",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/aleidibio",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.2",
-		"last_updated": "2024-02-01"
-	},
-	{
-		"name": "\u00d3vissa",
-		"filename": "ovissa",
-		"languages": ["C++"],
-		"url": "https://open.kattis.com/problems/ovissa",
-		"difficulty_name": "Easy",
-		"difficulty_rating": "1.2 - 1.3",
-		"last_updated": "2024-02-01"
-	}
+    {
+        "name": "4 thought",
+        "filename": "4thought",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/4thought",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "3.2",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "99 Problems",
+        "filename": "99problems",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/99problems",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "2.8",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "A Different Problem",
+        "filename": "different",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/different",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "2.9",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "ABC",
+        "filename": "abc",
+        "languages": [
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/abc",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "ACM Contest Scoring",
+        "filename": "acm",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/acm",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.0",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "ASCII kassi",
+        "filename": "asciikassi",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/asciikassi",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4 - 1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Add Two Numbers",
+        "filename": "addtwonumbers",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/addtwonumbers",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Adding Trouble",
+        "filename": "addingtrouble",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/addingtrouble",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Akcija",
+        "filename": "akcija",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/akcija",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "2.8",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Amalgamated Artichokes",
+        "filename": "artichoke",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/artichoke",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.7",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Amer\u00edskur vinnusta\u00f0ur",
+        "filename": "ameriskur",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/ameriskur",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Another Brick in the Wall",
+        "filename": "anotherbrick",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/anotherbrick",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Apaxiaaaaaaaaaaaans!",
+        "filename": "apaxiaaans",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/apaxiaaans",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Army Strength (Easy)",
+        "filename": "armystrengtheasy",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/armystrengtheasy",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.2",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Army Strength (Hard)",
+        "filename": "armystrengthhard",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/armystrengthhard",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.2",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Autori",
+        "filename": "autori",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/autori",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Awkward Party",
+        "filename": "awkwardparty",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/awkwardparty",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "3.0",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Baby Bites",
+        "filename": "babybites",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/babybites",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.9",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Basic Programming 1",
+        "filename": "basicprogramming1",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/basicprogramming1",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "1.3 - 4.7",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Basketball One-on-One",
+        "filename": "basketballoneonone",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/basketballoneonone",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.6",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Batter Up",
+        "filename": "batterup",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/batterup",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Battle Simulation",
+        "filename": "battlesimulation",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/battlesimulation",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.7",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Battleship",
+        "filename": "battleship",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/battleship",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "4.7",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Beekeeper",
+        "filename": "beekeeper",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/beekeeper",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.7",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Bela",
+        "filename": "bela",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/bela",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Betting",
+        "filename": "betting",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/betting",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Bijele",
+        "filename": "bijele",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/bijele",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Bits Equalizer",
+        "filename": "bitsequalizer",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/bitsequalizer",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "4.1",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Boss Battle",
+        "filename": "bossbattle",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/bossbattle",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.8",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Bottled-Up Feelings",
+        "filename": "bottledup",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/bottledup",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Bouding Robots",
+        "filename": "boundingrobots",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/boundingrobots",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.9",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Broken Swords",
+        "filename": "brokenswords",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/brokenswords",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.9",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Carousel Rides",
+        "filename": "carousel",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/carousel",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.6",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Cetiri",
+        "filename": "cetiri",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/cetiri",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.9",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Cetvrta",
+        "filename": "cetvrta",
+        "languages": [
+            "C++",
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/cetvrta",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Chanukah Challenge",
+        "filename": "chanukah",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/chanukah",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Chess",
+        "filename": "chess",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/chess",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "3.1",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Class Field Trip",
+        "filename": "classfieldtrip",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/classfieldtrip",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Climbing Stairs",
+        "filename": "climbingstairs",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/climbingstairs",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "4.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Climbing Worm",
+        "filename": "climbingworm",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/climbingworm",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.6",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Coast Length",
+        "filename": "coast",
+        "languages": [
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/coast",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "3.2",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Code Cleanups",
+        "filename": "codecleanups",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/codecleanups",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "3.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Cold-puter Science",
+        "filename": "cold",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/cold",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Combination Lock",
+        "filename": "combinationlock",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/combinationlock",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "3.1",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Connect the Dots",
+        "filename": "connectthedots",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/connectthedots",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "3.7",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Count the Vowels",
+        "filename": "countthevowels",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/countthevowels",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Cow Crane",
+        "filename": "cowcrane",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/cowcrane",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "3.6",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Cryptographer's Conundrum",
+        "filename": "conundrum",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/conundrum",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Cudoviste",
+        "filename": "cudoviste",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/cudoviste",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Cut the Negativity",
+        "filename": "cutthenegativity",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/cutthenegativity",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "DRM Messages",
+        "filename": "drmmessages",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/drmmessages",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Death and Taxes",
+        "filename": "deathtaxes",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/deathtaxes",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "3.1",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Delicious Bubble Tea",
+        "filename": "bubbletea",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/bubbletea",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "2.8",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Detailed Differences",
+        "filename": "detaileddifferences",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/detaileddifferences",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Dice Cup",
+        "filename": "dicecup",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/dicecup",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Digit Swap",
+        "filename": "digitswap",
+        "languages": [
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/digitswap",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Digits",
+        "filename": "digits",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/digits",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "3.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Drinking Song",
+        "filename": "drinkingsong",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/drinkingsong",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Driver's Dilemma",
+        "filename": "driversdilemma",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/driversdilemma",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Echo Echo Echo",
+        "filename": "echoechoecho",
+        "languages": [
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/echoechoecho",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Ekki dau\u00f0i opna inni",
+        "filename": "ekkidaudi",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/ekkidaudi",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4 - 1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Eligibility",
+        "filename": "eligibility",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/eligibility",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.6",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Emag Eht Htiw Em Pleh",
+        "filename": "empleh",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/empleh",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.8",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Event Planning",
+        "filename": "eventplanning",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/eventplanning",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.2",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Exactly Electrical",
+        "filename": "exactlyelectrical",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/exactlyelectrical",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.2",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "FYI",
+        "filename": "fyi",
+        "languages": [
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/fyi",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Faktor",
+        "filename": "faktor",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/faktor",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Fast Food Prizes",
+        "filename": "fastfood",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/fastfood",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.0",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Filip",
+        "filename": "filip",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/filip",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Finding An A",
+        "filename": "findingana",
+        "languages": [
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/findingana",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Firefly",
+        "filename": "firefly",
+        "languages": [
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/firefly",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "3.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "FizzBuzz",
+        "filename": "fizzbuzz",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/fizzbuzz",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Flatb\u00f6kuveisla",
+        "filename": "flatbokuveisla",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/flatbokuveisla",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.2",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Fl\u00fdtibaka",
+        "filename": "flytibaka",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/flytibaka",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Framt\u00ed\u00f0ar FIFA",
+        "filename": "fifa",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/fifa",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.2",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "GCVWR",
+        "filename": "gcvwr",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/gcvwr",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Game Rank",
+        "filename": "gamerank",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/gamerank",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "3.6",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Goomba Stacks",
+        "filename": "goombastacks",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/goombastacks",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Grass Seed Inc.",
+        "filename": "grassseed",
+        "languages": [
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/grassseed",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Greetings\u01c3",
+        "filename": "greetings2",
+        "languages": [
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/greetings2",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Guessing Game",
+        "filename": "guessinggame",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/guessinggame",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "3.2",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Hanging Out on the Terrace",
+        "filename": "hangingout",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/hangingout",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.6",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Heart Rate",
+        "filename": "heartrate",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/heartrate",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Hello World\u01c3",
+        "filename": "hello",
+        "languages": [
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/hello",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.1",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Help Me With The Game",
+        "filename": "helpme",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/helpme",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "3.0",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Help a PhD candidate out\u01c3",
+        "filename": "helpaphd",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/helpaphd",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.7",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Herman",
+        "filename": "herman",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/herman",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.7",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Hide CPR Number",
+        "filename": "cprnummer",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/cprnummer",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Hissing Microphone",
+        "filename": "hissingmicrophone",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/hissingmicrophone",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Homework",
+        "filename": "heimavinna",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/heimavinna",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.1 - 1.6",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Hot Hike",
+        "filename": "hothike",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/hothike",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.1",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Howl",
+        "filename": "howl",
+        "languages": [
+            "Python",
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/howl",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Hra\u00f0greining",
+        "filename": "hradgreining",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/hradgreining",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.2 - 1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "I've Been Everywhere, Man",
+        "filename": "everywhere",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/everywhere",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Integer Lists",
+        "filename": "integerlists",
+        "languages": [
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/integerlists",
+        "difficulty_name": "Hard",
+        "difficulty_rating": "5.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "IsItHalloween.com",
+        "filename": "isithalloween",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/isithalloween",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Jack-O'-Lantern Juxtaposition",
+        "filename": "jackolanternjuxtaposition",
+        "languages": [
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/jackolanternjuxtaposition",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Job Expenses",
+        "filename": "jobexpenses",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/jobexpenses",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Judging Moose",
+        "filename": "judgingmoose",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/judgingmoose",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Jumbo Javelin",
+        "filename": "jumbojavelin",
+        "languages": [
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/jumbojavelin",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Karte",
+        "filename": "karte",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/karte",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.6",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Kiki Boba",
+        "filename": "kikiboba",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/kikiboba",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.2 - 1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Knight Packing",
+        "filename": "knightpacking",
+        "languages": [
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/knightpacking",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.2",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Knot Knowledge",
+        "filename": "knotknowledge",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/knotknowledge",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Ladder",
+        "filename": "ladder",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/ladder",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Last Factorial Digit",
+        "filename": "lastfactorialdigit",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/lastfactorialdigit",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Left Beehind",
+        "filename": "leftbeehind",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/leftbeehind",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.9",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Leggja saman",
+        "filename": "leggjasaman",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/leggjasaman",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "License to Launch",
+        "filename": "licensetolaunch",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/licensetolaunch",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.6",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Line Them Up",
+        "filename": "lineup",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/lineup",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.6",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Lost Lineup",
+        "filename": "lostlineup",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/lostlineup",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.6",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Magic Trick",
+        "filename": "magictrick",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/magictrick",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Memory Match",
+        "filename": "memorymatch",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/memorymatch",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "4.1",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Message",
+        "filename": "meddelande",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/meddelande",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4 - 1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Metronome",
+        "filename": "metronome",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/metronome",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.2",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Mia",
+        "filename": "mia",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/mia",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.2",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Millif\u00e6rsla",
+        "filename": "millifaersla",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/millifaersla",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.2",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Missing Numbers",
+        "filename": "missingnumbers",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/missingnumbers",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.8",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Modulo",
+        "filename": "modulo",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/modulo",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Monopoly",
+        "filename": "monopol",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/monopol",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Moscow Dream",
+        "filename": "moscowdream",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/moscowdream",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.0",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Mosquito Multiplication",
+        "filename": "mosquito",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/mosquito",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.9",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "N-sum",
+        "filename": "nsum",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/nsum",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Nasty Hacks",
+        "filename": "nastyhacks",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/nastyhacks",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "No Duplicates",
+        "filename": "nodup",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/nodup",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Number Fun",
+        "filename": "numberfun",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/numberfun",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Odd Echo",
+        "filename": "oddecho",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/oddecho",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Odd Gnome",
+        "filename": "oddgnome",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/oddgnome",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.8",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Odd Man Out",
+        "filename": "oddmanout",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/oddmanout",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Oddities",
+        "filename": "oddities",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/oddities",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "One Chicken Per Person\u01c3",
+        "filename": "onechicken",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/onechicken",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.8",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Path Tracing",
+        "filename": "pathtracing",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/pathtracing",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "3.0",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Pea Soup and Pancakes",
+        "filename": "peasoup",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/peasoup",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "2.9",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Pet",
+        "filename": "pet",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/pet",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Piece of Cake\u01c3",
+        "filename": "pieceofcake2",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/pieceofcake2",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Planina",
+        "filename": "planina",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/planina",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.6",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Pokechat",
+        "filename": "pokechat",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/pokechat",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Poker Hand",
+        "filename": "pokerhand",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/pokerhand",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.6",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Popular Vote",
+        "filename": "vote",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/vote",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.1",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Pot",
+        "filename": "pot",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/pot",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Prerequisites?",
+        "filename": "prerequisites",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/prerequisites",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.1",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Prj\u00f3namynstur",
+        "filename": "prjonamynstur",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/prjonamynstur",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3 - 1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Provinces and Gold",
+        "filename": "provincesandgold",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/provincesandgold",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Ptice",
+        "filename": "ptice",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/ptice",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.6",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Quadrant Selection",
+        "filename": "quadrant",
+        "languages": [
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/quadrant",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.2",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Quality-Adjusted Life-Year",
+        "filename": "qaly",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/qaly",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "R2",
+        "filename": "r2",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/r2",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Reduplication",
+        "filename": "reduplikation",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/reduplikation",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.2",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Reversed Binary Numbers",
+        "filename": "reversebinary",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/reversebinary",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Roaming Romans",
+        "filename": "romans",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/romans",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.7",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Rock, Scissors, Paper",
+        "filename": "rockscissorspaper",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/rockscissorspaper",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "4.4",
+        "last_updated": "2024-02-02"
+    },
+    {
+        "name": "Rock-Paper-Scissors Tournament",
+        "filename": "rockpaperscissors",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/rockpaperscissors",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "4.0",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Room Painting",
+        "filename": "roompainting",
+        "languages": [
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/roompainting",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "3.1",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "SMIL",
+        "filename": "smil",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/smil",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4 - 1.6",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Seven Wonders",
+        "filename": "sevenwonders",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/sevenwonders",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.6",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Shattered Cake",
+        "filename": "shatteredcake",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/shatteredcake",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.6",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Shuffling Along",
+        "filename": "shuffling",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/shuffling",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.7",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Sibice",
+        "filename": "sibice",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/sibice",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Sim",
+        "filename": "sim",
+        "languages": [
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/sim",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "3.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Sith",
+        "filename": "sith",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/sith",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Skammst\u00f6fun",
+        "filename": "skammstofun",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/skammstofun",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3 - 1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Sok",
+        "filename": "sok",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/sok",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.9",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Solving for Carrots",
+        "filename": "carrots",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/carrots",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Sort Two Numbers",
+        "filename": "sorttwonumbers",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/sorttwonumbers",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Spavanac",
+        "filename": "spavanac",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/spavanac",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Speed Limit",
+        "filename": "speedlimit",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/speedlimit",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.6",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Spritt",
+        "filename": "spritt",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/spritt",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Stand on Zanzibar",
+        "filename": "zanzibar",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/zanzibar",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Star Arrangements",
+        "filename": "stararrangements",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/stararrangements",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.7",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Statistics",
+        "filename": "statistics",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/statistics",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.8",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Stuck In A Time Loop",
+        "filename": "timeloop",
+        "languages": [
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/timeloop",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Sum Squared Digits Function",
+        "filename": "sumsquareddigits",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/sumsquareddigits",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "S\u00f3ttkv\u00ed",
+        "filename": "sottkvi",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/sottkvi",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Take Two Stones",
+        "filename": "twostones",
+        "languages": [
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/twostones",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.2",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Tarifa",
+        "filename": "tarifa",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/tarifa",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Thanos",
+        "filename": "thanos",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/thanos",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "The Last Problem",
+        "filename": "thelastproblem",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/thelastproblem",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Tic Tac Toe",
+        "filename": "tictactoe2",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/tictactoe2",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "5.1",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Time Travelling Temperatures",
+        "filename": "temperature",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/temperature",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Treasure Hunt",
+        "filename": "treasurehunt",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/treasurehunt",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "2.8",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Triangle Area",
+        "filename": "triarea",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/triarea",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Triangle Containment",
+        "filename": "trianglecontainment",
+        "languages": [
+            "Python",
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/trianglecontainment",
+        "difficulty_name": "Hard",
+        "difficulty_rating": "6.7",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Trik",
+        "filename": "trik",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/trik",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Turtle Master",
+        "filename": "turtlemaster",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/turtlemaster",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "3.0",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Two-sum",
+        "filename": "twosum",
+        "languages": [
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/twosum",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "T\u00f6lvunarfr\u00e6\u00f0ingar telja",
+        "filename": "tolvunarfraedingartelja",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/tolvunarfraedingartelja",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.2",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Umfer\u00f0",
+        "filename": "umferd",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/umferd",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Undead or Alive",
+        "filename": "undeadoralive",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/undeadoralive",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Vef\u00fej\u00f3natj\u00f3n",
+        "filename": "vefthjonatjon",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/vefthjonatjon",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Velkomin!",
+        "filename": "velkomin",
+        "languages": [
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/velkomin",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.1",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Ve\u00f0ur - Loka\u00f0ar hei\u00f0ar",
+        "filename": "vedurheidar",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/vedurheidar",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Vi\u00f0sn\u00faningur",
+        "filename": "vidsnuningur",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/vidsnuningur",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.2",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Volim",
+        "filename": "volim",
+        "languages": [
+            "Python",
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/volim",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.8",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Weak Vertices",
+        "filename": "weakvertices",
+        "languages": [
+            "Python"
+        ],
+        "url": "https://open.kattis.com/problems/weakvertices",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Which is Greater?",
+        "filename": "whichisgreater",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/whichisgreater",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Yin and Yang Stones",
+        "filename": "yinyangstones",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/yinyangstones",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.8",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "Zamka",
+        "filename": "zamka",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/zamka",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "\u00c1 lei\u00f0 \u00ed b\u00ed\u00f3",
+        "filename": "aleidibio",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/aleidibio",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.2",
+        "last_updated": "2024-02-01"
+    },
+    {
+        "name": "\u00d3vissa",
+        "filename": "ovissa",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/ovissa",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.2 - 1.3",
+        "last_updated": "2024-02-01"
+    }
 ]

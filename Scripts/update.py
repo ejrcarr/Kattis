@@ -139,8 +139,12 @@ def update_problems() -> None:
         problem_languages = [LANGUAGES[file.suffix] for file in child.iterdir() if file.is_file() and file.suffix in LANGUAGES]
         
         directory_name = child.name
-        file_name = next((file.name for file in child.iterdir() if file.is_file() and file.suffix in LANGUAGES), None)
 
+        file_name = next((file.stem for file in child.iterdir() if file.is_file() and file.suffix in LANGUAGES), None)
+        if not file_name:
+            logging.warning(f"No solution file found for {directory_name}")
+            continue
+        
         existing_problem = next((item for item in old_problems if item["name"] == child.name), None)
         if existing_problem and set(problem_languages) == set(existing_problem["languages"]):
             last_updated = datetime.strptime(existing_problem.get("last_updated", "1970-01-01"), "%Y-%m-%d")
@@ -149,9 +153,9 @@ def update_problems() -> None:
                 updated_problems.append(existing_problem)
                 continue
 
-
+        logging.info(f"Fetching data for {file_name}")
         try:
-            difficulty_name, difficulty_rating = _fetch_website_data(directory_name, URL_BASE, URL_SUFFIX)
+            difficulty_name, difficulty_rating = _fetch_website_data(file_name, URL_BASE, URL_SUFFIX)
         except Exception as e:
             logging.error(f"Error fetching data for {directory_name}: {e}")
             continue
