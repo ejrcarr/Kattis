@@ -108,7 +108,7 @@ def _create_readme_content(problems: List[Dict]) -> str:
                 lang_extension = LANGUAGES_EXTENSIONS.get(lang_name.lower(), '')
                 solution_file_path = f"{problem['name']}/{problem['filename']}.{lang_extension}"
                 solution_url_encoded = quote(solution_file_path)
-                solution_url = f"Solutions./{solution_url_encoded}"
+                solution_url = f"./Solutions/{solution_url_encoded}"
                 solutions_links.append(f"<a href='{solution_url}'>{lang_name}</a>")
 
             solutions_str = ', '.join(solutions_links)
