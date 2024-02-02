@@ -34,6 +34,5 @@
 **/output
 .vscode
 .fake
-# update.py
+commit.py
 requirements.txt
-# problems.json
