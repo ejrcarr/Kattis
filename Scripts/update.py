@@ -42,8 +42,8 @@ def _save_json_data(file_path: Path, data: List[Dict]) -> None:
     with open(file_path, "w") as f:
         json.dump(data, f, indent=4)
 
-def _fetch_website_data(problem_name: str, url_base: str, url_suffix: str) -> Tuple[str, str]:
-    url = f"{url_base}{quote(problem_name)}{url_suffix}"
+def _fetch_website_data(problem_id: str, url_base: str, url_suffix: str) -> Tuple[str, str]:
+    url = f"{url_base}{quote(problem_id)}{url_suffix}"
     req = Request(url=url, headers={'User-Agent': 'Mozilla/5.0'})
     with urlopen(req) as html:
         html_content = html.read()
@@ -137,33 +137,36 @@ def update_problems() -> None:
             continue
         
         problem_languages = [LANGUAGES[file.suffix] for file in child.iterdir() if file.is_file() and file.suffix in LANGUAGES]
-        filename = child.name
+        
+        directory_name = child.name
+        file_name = next((file.name for file in child.iterdir() if file.is_file() and file.suffix in LANGUAGES), None)
 
         existing_problem = next((item for item in old_problems if item["name"] == child.name), None)
         if existing_problem and set(problem_languages) == set(existing_problem["languages"]):
             last_updated = datetime.strptime(existing_problem.get("last_updated", "1970-01-01"), "%Y-%m-%d")
             if current_date - last_updated < update_threshold:
-                logging.info(f"Skipped {filename} as it was recently updated.")
+                logging.info(f"Skipped {directory_name} as it was recently updated.")
                 updated_problems.append(existing_problem)
                 continue
-        
+
+
         try:
-            difficulty_name, difficulty_rating = _fetch_website_data(filename, URL_BASE, URL_SUFFIX)
+            difficulty_name, difficulty_rating = _fetch_website_data(directory_name, URL_BASE, URL_SUFFIX)
         except Exception as e:
-            logging.error(f"Error fetching data for {filename}: {e}")
+            logging.error(f"Error fetching data for {directory_name}: {e}")
             continue
 
         problem = {
-            "name": filename, 
-            "filename": filename, 
+            "name": directory_name, 
+            "filename": file_name, 
             "languages": problem_languages, 
-            "url": URL_BASE + filename,
+            "url": URL_BASE + file_name,
             "difficulty_name": difficulty_name, 
             "difficulty_rating": difficulty_rating,
             "last_updated": current_date.strftime("%Y-%m-%d")
         }
         updated_problems.append(problem)
-        logging.info(f"Updated {filename}")
+        logging.info(f"Updated {directory_name}")
 
     updated_problems.sort(key=lambda x: x["name"])
     _save_json_data(problems_file, updated_problems)
