@@ -34,7 +34,6 @@
 **/output
 .vscode
 .fake
-script.sh
-random.sh
-dirs.txt
-shuffled_dirs.txt
+# update.py
+requirements.txt
+# problems.json
