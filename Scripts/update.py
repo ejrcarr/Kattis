@@ -13,9 +13,9 @@ DIFFICULTY_IMAGES = {
     "Hard": "https://github.com/ejrcarr/Kattis/assets/110308975/93294158-642c-4787-9811-99e1a2be8307"
 }
 LANGUAGES = {
-    ".py": "Python", ".cpp": "C++", ".java": "Java", ".js": "JavaScript", ".c":"C", 
-    ".cs":"C#", ".html":"HTML", ".css":"CSS", ".php":"PHP", ".rb":"Ruby", ".go":"Go", 
-    ".kt":"Kotlin", ".swift":"Swift"
+    "py": "Python", "cpp": "C++", "java": "Java", "js": "JavaScript", "c":"C", 
+    "cs":"C#", "html":"HTML", "css":"CSS", "php":"PHP", "rb":"Ruby", "go":"Go", 
+    "kt":"Kotlin", "swift":"Swift"
 }
 LANGUAGES_EXTENSIONS = {v.lower(): k for k, v in LANGUAGES.items()}
 USER_AGENT = 'Mozilla/5.0'
