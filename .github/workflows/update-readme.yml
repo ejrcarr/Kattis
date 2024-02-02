@@ -1,0 +1,32 @@
+name: update-readme
+run-name: ${{ github.actor }} is updating README.md
+on: [push]
+
+jobs:
+  update-readme:
+    name: Update README.md
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.x'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install bs4
+
+      - name: Run update script
+        run: python update.py
+
+      - name: Commit and push if changes
+        run: |
+          git config --global user.name 'Evan Carr'
+          git config --global user.email 'ejrcarr@gmail.com'
+          git add README.md problems.json
+          git commit -m "Automated README.md update" || exit 0
+          git push  # Push back to the GitHub repository
