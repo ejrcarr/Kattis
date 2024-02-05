@@ -75,7 +75,7 @@ def _parse_rating(rating_str: str) -> float:
 
 def _create_readme_content(problems: List[Dict]) -> str:
     readme = "<h1 float='left'> Kattis <img align='right' width='100px' src='https://github.com/ejrcarr/Kattis/assets/110308975/dc33e524-954b-4edf-a8ac-c96072230cc8' alt='Kattis logo'/> </h1>\n\n"
-    readme += "A collection of my various solutions to problems found on Kattis.\n\n"
+    readme += "A collection of my solutions to problems found on Kattis.\n\n"
 
     readme += "<!--\n"
     for img_url in DIFFICULTY_IMAGES.values():
