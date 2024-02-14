@@ -26,7 +26,7 @@ int count(unordered_map<int, vpii>& map, vi& distance, vi& path, int vertex){
 
 int main() {
     ios::sync_with_stdio(false);
-    cin.tie(NULL);
+    cin.tie(nullptr);
 
     int intersections, paths;
     while(cin >> intersections && intersections != 0 && cin >> paths) {
