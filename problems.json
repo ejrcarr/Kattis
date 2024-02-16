@@ -8,7 +8,7 @@
         "url": "https://open.kattis.com/problems/4thought",
         "difficulty_name": "Medium",
         "difficulty_rating": "3.2",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "99 Problems",
@@ -18,8 +18,8 @@
         ],
         "url": "https://open.kattis.com/problems/99problems",
         "difficulty_name": "Medium",
-        "difficulty_rating": "2.9",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "2.8",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "A Different Problem",
@@ -30,7 +30,18 @@
         "url": "https://open.kattis.com/problems/different",
         "difficulty_name": "Medium",
         "difficulty_rating": "2.8",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
+    },
+    {
+        "name": "A Walk Through The Forest",
+        "filename": "walkforest",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/walkforest",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "4.3",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "ABC",
@@ -41,7 +52,7 @@
         "url": "https://open.kattis.com/problems/abc",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "ACM Contest Scoring",
@@ -52,7 +63,7 @@
         "url": "https://open.kattis.com/problems/acm",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.9",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "ASCII kassi",
@@ -63,7 +74,7 @@
         "url": "https://open.kattis.com/problems/asciikassi",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4 - 1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Add Two Numbers",
@@ -73,8 +84,8 @@
         ],
         "url": "https://open.kattis.com/problems/addtwonumbers",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.3",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.2",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Adding Trouble",
@@ -85,7 +96,7 @@
         "url": "https://open.kattis.com/problems/addingtrouble",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Akcija",
@@ -96,7 +107,7 @@
         "url": "https://open.kattis.com/problems/akcija",
         "difficulty_name": "Medium",
         "difficulty_rating": "2.8",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Amalgamated Artichokes",
@@ -107,7 +118,7 @@
         "url": "https://open.kattis.com/problems/artichoke",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.7",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Amer\u00edskur vinnusta\u00f0ur",
@@ -118,7 +129,7 @@
         "url": "https://open.kattis.com/problems/ameriskur",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Another Brick in the Wall",
@@ -129,7 +140,7 @@
         "url": "https://open.kattis.com/problems/anotherbrick",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Apaxiaaaaaaaaaaaans!",
@@ -140,7 +151,7 @@
         "url": "https://open.kattis.com/problems/apaxiaaans",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Army Strength (Easy)",
@@ -151,7 +162,7 @@
         "url": "https://open.kattis.com/problems/armystrengtheasy",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.2",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Army Strength (Hard)",
@@ -161,8 +172,8 @@
         ],
         "url": "https://open.kattis.com/problems/armystrengthhard",
         "difficulty_name": "Easy",
-        "difficulty_rating": "2.2",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "2.3",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Autori",
@@ -173,7 +184,7 @@
         "url": "https://open.kattis.com/problems/autori",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.2",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Awkward Party",
@@ -184,7 +195,7 @@
         "url": "https://open.kattis.com/problems/awkwardparty",
         "difficulty_name": "Medium",
         "difficulty_rating": "2.8",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Baby Bites",
@@ -195,7 +206,18 @@
         "url": "https://open.kattis.com/problems/babybites",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.9",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
+    },
+    {
+        "name": "Baloni",
+        "filename": "baloni",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/baloni",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "3.1",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Basic Programming 1",
@@ -205,8 +227,8 @@
         ],
         "url": "https://open.kattis.com/problems/basicprogramming1",
         "difficulty_name": "Medium",
-        "difficulty_rating": "1.3 - 4.8",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.3 - 4.9",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Basketball One-on-One",
@@ -217,7 +239,7 @@
         "url": "https://open.kattis.com/problems/basketballoneonone",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.6",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Batter Up",
@@ -228,7 +250,7 @@
         "url": "https://open.kattis.com/problems/batterup",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Battle Simulation",
@@ -238,8 +260,8 @@
         ],
         "url": "https://open.kattis.com/problems/battlesimulation",
         "difficulty_name": "Easy",
-        "difficulty_rating": "2.6",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "2.7",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Battleship",
@@ -249,8 +271,8 @@
         ],
         "url": "https://open.kattis.com/problems/battleship",
         "difficulty_name": "Medium",
-        "difficulty_rating": "4.7",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "4.8",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Beat the Spread\u01c3",
@@ -261,7 +283,7 @@
         "url": "https://open.kattis.com/problems/beatspread",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Beekeeper",
@@ -270,9 +292,9 @@
             "C++"
         ],
         "url": "https://open.kattis.com/problems/beekeeper",
-        "difficulty_name": "Medium",
-        "difficulty_rating": "2.8",
-        "last_updated": "2024-02-08"
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.7",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Bela",
@@ -283,7 +305,7 @@
         "url": "https://open.kattis.com/problems/bela",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Betting",
@@ -294,7 +316,7 @@
         "url": "https://open.kattis.com/problems/betting",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Bijele",
@@ -304,8 +326,8 @@
         ],
         "url": "https://open.kattis.com/problems/bijele",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Bits Equalizer",
@@ -316,7 +338,7 @@
         "url": "https://open.kattis.com/problems/bitsequalizer",
         "difficulty_name": "Medium",
         "difficulty_rating": "4.2",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Boss Battle",
@@ -327,7 +349,7 @@
         "url": "https://open.kattis.com/problems/bossbattle",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.8",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Bottled-Up Feelings",
@@ -337,8 +359,8 @@
         ],
         "url": "https://open.kattis.com/problems/bottledup",
         "difficulty_name": "Easy",
-        "difficulty_rating": "2.5",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "2.6",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Bouding Robots",
@@ -349,7 +371,7 @@
         "url": "https://open.kattis.com/problems/boundingrobots",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.9",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Broken Swords",
@@ -360,7 +382,7 @@
         "url": "https://open.kattis.com/problems/brokenswords",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.0",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Calories From Fat",
@@ -371,7 +393,7 @@
         "url": "https://open.kattis.com/problems/calories",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Carousel Rides",
@@ -382,7 +404,7 @@
         "url": "https://open.kattis.com/problems/carousel",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.6",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Cetiri",
@@ -393,19 +415,19 @@
         "url": "https://open.kattis.com/problems/cetiri",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.9",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Cetvrta",
         "filename": "cetvrta",
         "languages": [
-            "Python",
-            "C++"
+            "C++",
+            "Python"
         ],
         "url": "https://open.kattis.com/problems/cetvrta",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Chanukah Challenge",
@@ -415,8 +437,8 @@
         ],
         "url": "https://open.kattis.com/problems/chanukah",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Chess",
@@ -427,7 +449,7 @@
         "url": "https://open.kattis.com/problems/chess",
         "difficulty_name": "Medium",
         "difficulty_rating": "3.1",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Class Field Trip",
@@ -438,7 +460,7 @@
         "url": "https://open.kattis.com/problems/classfieldtrip",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Climbing Stairs",
@@ -448,8 +470,8 @@
         ],
         "url": "https://open.kattis.com/problems/climbingstairs",
         "difficulty_name": "Medium",
-        "difficulty_rating": "4.3",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "4.0",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Climbing Worm",
@@ -460,7 +482,7 @@
         "url": "https://open.kattis.com/problems/climbingworm",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Coast Length",
@@ -470,8 +492,8 @@
         ],
         "url": "https://open.kattis.com/problems/coast",
         "difficulty_name": "Medium",
-        "difficulty_rating": "3.2",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "3.1",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Code Cleanups",
@@ -482,7 +504,7 @@
         "url": "https://open.kattis.com/problems/codecleanups",
         "difficulty_name": "Medium",
         "difficulty_rating": "3.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Cold-puter Science",
@@ -492,8 +514,8 @@
         ],
         "url": "https://open.kattis.com/problems/cold",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.3",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Combination Lock",
@@ -503,8 +525,8 @@
         ],
         "url": "https://open.kattis.com/problems/combinationlock",
         "difficulty_name": "Medium",
-        "difficulty_rating": "3.1",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "3.2",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Connect the Dots",
@@ -515,7 +537,7 @@
         "url": "https://open.kattis.com/problems/connectthedots",
         "difficulty_name": "Medium",
         "difficulty_rating": "3.7",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Count the Vowels",
@@ -526,7 +548,7 @@
         "url": "https://open.kattis.com/problems/countthevowels",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Cow Crane",
@@ -537,7 +559,7 @@
         "url": "https://open.kattis.com/problems/cowcrane",
         "difficulty_name": "Medium",
         "difficulty_rating": "3.6",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Cryptographer's Conundrum",
@@ -548,7 +570,7 @@
         "url": "https://open.kattis.com/problems/conundrum",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Cudoviste",
@@ -559,7 +581,7 @@
         "url": "https://open.kattis.com/problems/cudoviste",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Cut the Negativity",
@@ -570,7 +592,7 @@
         "url": "https://open.kattis.com/problems/cutthenegativity",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "DRM Messages",
@@ -581,7 +603,7 @@
         "url": "https://open.kattis.com/problems/drmmessages",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Death and Taxes",
@@ -592,7 +614,7 @@
         "url": "https://open.kattis.com/problems/deathtaxes",
         "difficulty_name": "Medium",
         "difficulty_rating": "3.1",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Delicious Bubble Tea",
@@ -603,7 +625,7 @@
         "url": "https://open.kattis.com/problems/bubbletea",
         "difficulty_name": "Medium",
         "difficulty_rating": "2.8",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Detailed Differences",
@@ -614,7 +636,7 @@
         "url": "https://open.kattis.com/problems/detaileddifferences",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Dice Cup",
@@ -625,7 +647,7 @@
         "url": "https://open.kattis.com/problems/dicecup",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Digit Swap",
@@ -636,7 +658,7 @@
         "url": "https://open.kattis.com/problems/digitswap",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Digits",
@@ -647,7 +669,29 @@
         "url": "https://open.kattis.com/problems/digits",
         "difficulty_name": "Medium",
         "difficulty_rating": "3.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
+    },
+    {
+        "name": "Disastrous Downtime",
+        "filename": "downtime",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/downtime",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "3.1",
+        "last_updated": "2024-02-16"
+    },
+    {
+        "name": "Divide by 100...",
+        "filename": "divideby100",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/divideby100",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "4.2",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Drinking Song",
@@ -658,7 +702,7 @@
         "url": "https://open.kattis.com/problems/drinkingsong",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Driver's Dilemma",
@@ -669,7 +713,7 @@
         "url": "https://open.kattis.com/problems/driversdilemma",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Echo Echo Echo",
@@ -679,8 +723,8 @@
         ],
         "url": "https://open.kattis.com/problems/echoechoecho",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.3",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.2",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Ekki dau\u00f0i opna inni",
@@ -691,7 +735,7 @@
         "url": "https://open.kattis.com/problems/ekkidaudi",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4 - 1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Eligibility",
@@ -701,8 +745,8 @@
         ],
         "url": "https://open.kattis.com/problems/eligibility",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.6",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Emag Eht Htiw Em Pleh",
@@ -713,7 +757,18 @@
         "url": "https://open.kattis.com/problems/empleh",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.8",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
+    },
+    {
+        "name": "Erase Securely",
+        "filename": "erase",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/erase",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "1.8",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Event Planning",
@@ -724,7 +779,7 @@
         "url": "https://open.kattis.com/problems/eventplanning",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Exactly Electrical",
@@ -735,7 +790,7 @@
         "url": "https://open.kattis.com/problems/exactlyelectrical",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.2",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "FBI Universal Control Numbers",
@@ -746,7 +801,7 @@
         "url": "https://open.kattis.com/problems/fbiuniversal",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "FYI",
@@ -757,7 +812,7 @@
         "url": "https://open.kattis.com/problems/fyi",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Faktor",
@@ -768,7 +823,18 @@
         "url": "https://open.kattis.com/problems/faktor",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
+    },
+    {
+        "name": "False Sense of Security",
+        "filename": "falsesecurity",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/falsesecurity",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.0",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Fast Food Prizes",
@@ -779,7 +845,7 @@
         "url": "https://open.kattis.com/problems/fastfood",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.0",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Filip",
@@ -790,7 +856,7 @@
         "url": "https://open.kattis.com/problems/filip",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Finding An A",
@@ -801,7 +867,7 @@
         "url": "https://open.kattis.com/problems/findingana",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Firefly",
@@ -811,8 +877,8 @@
         ],
         "url": "https://open.kattis.com/problems/firefly",
         "difficulty_name": "Medium",
-        "difficulty_rating": "3.3",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "3.2",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "FizzBuzz",
@@ -822,8 +888,8 @@
         ],
         "url": "https://open.kattis.com/problems/fizzbuzz",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Flatb\u00f6kuveisla",
@@ -834,7 +900,7 @@
         "url": "https://open.kattis.com/problems/flatbokuveisla",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.2",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Fl\u00fdtibaka",
@@ -845,7 +911,7 @@
         "url": "https://open.kattis.com/problems/flytibaka",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Framt\u00ed\u00f0ar FIFA",
@@ -856,7 +922,7 @@
         "url": "https://open.kattis.com/problems/fifa",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.2",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "GCVWR",
@@ -867,7 +933,7 @@
         "url": "https://open.kattis.com/problems/gcvwr",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Game Rank",
@@ -878,7 +944,7 @@
         "url": "https://open.kattis.com/problems/gamerank",
         "difficulty_name": "Medium",
         "difficulty_rating": "3.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Goomba Stacks",
@@ -889,7 +955,7 @@
         "url": "https://open.kattis.com/problems/goombastacks",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Grass Seed Inc.",
@@ -900,7 +966,18 @@
         "url": "https://open.kattis.com/problems/grassseed",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
+    },
+    {
+        "name": "Greedily Increasing Subsequence",
+        "filename": "greedilyincreasing",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/greedilyincreasing",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.0",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Greetings\u01c3",
@@ -910,8 +987,8 @@
         ],
         "url": "https://open.kattis.com/problems/greetings2",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.3",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Guessing Game",
@@ -921,8 +998,8 @@
         ],
         "url": "https://open.kattis.com/problems/guessinggame",
         "difficulty_name": "Medium",
-        "difficulty_rating": "3.2",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "3.3",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Hanging Out on the Terrace",
@@ -933,7 +1010,7 @@
         "url": "https://open.kattis.com/problems/hangingout",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.6",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Heart Rate",
@@ -944,7 +1021,7 @@
         "url": "https://open.kattis.com/problems/heartrate",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Hello World\u01c3",
@@ -955,7 +1032,7 @@
         "url": "https://open.kattis.com/problems/hello",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.1",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Help Me With The Game",
@@ -965,8 +1042,8 @@
         ],
         "url": "https://open.kattis.com/problems/helpme",
         "difficulty_name": "Medium",
-        "difficulty_rating": "3.0",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "3.1",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Help a PhD candidate out\u01c3",
@@ -977,7 +1054,7 @@
         "url": "https://open.kattis.com/problems/helpaphd",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.7",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Herman",
@@ -988,7 +1065,7 @@
         "url": "https://open.kattis.com/problems/herman",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.7",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Hide CPR Number",
@@ -999,7 +1076,7 @@
         "url": "https://open.kattis.com/problems/cprnummer",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Hissing Microphone",
@@ -1010,7 +1087,7 @@
         "url": "https://open.kattis.com/problems/hissingmicrophone",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Homework",
@@ -1020,8 +1097,19 @@
         ],
         "url": "https://open.kattis.com/problems/heimavinna",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.1 - 1.5",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.0 - 1.6",
+        "last_updated": "2024-02-16"
+    },
+    {
+        "name": "Horror List",
+        "filename": "horror",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/horror",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "2.8",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Hot Hike",
@@ -1032,7 +1120,7 @@
         "url": "https://open.kattis.com/problems/hothike",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.1",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Howl",
@@ -1043,8 +1131,8 @@
         ],
         "url": "https://open.kattis.com/problems/howl",
         "difficulty_name": "Easy",
-        "difficulty_rating": "2.2",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.9",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Hra\u00f0greining",
@@ -1055,7 +1143,7 @@
         "url": "https://open.kattis.com/problems/hradgreining",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.2 - 1.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "I've Been Everywhere, Man",
@@ -1066,7 +1154,7 @@
         "url": "https://open.kattis.com/problems/everywhere",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Imperial Measurement",
@@ -1076,8 +1164,8 @@
         ],
         "url": "https://open.kattis.com/problems/measurement",
         "difficulty_name": "Easy",
-        "difficulty_rating": "2.1",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "2.2",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Integer Lists",
@@ -1087,8 +1175,8 @@
         ],
         "url": "https://open.kattis.com/problems/integerlists",
         "difficulty_name": "Medium",
-        "difficulty_rating": "5.3",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "5.1",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Is Y a Vowel?",
@@ -1098,8 +1186,8 @@
         ],
         "url": "https://open.kattis.com/problems/isyavowel",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.3",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.2",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "IsItHalloween.com",
@@ -1110,7 +1198,7 @@
         "url": "https://open.kattis.com/problems/isithalloween",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Jack-O'-Lantern Juxtaposition",
@@ -1121,7 +1209,7 @@
         "url": "https://open.kattis.com/problems/jackolanternjuxtaposition",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Job Expenses",
@@ -1132,7 +1220,7 @@
         "url": "https://open.kattis.com/problems/jobexpenses",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Jolly Jumpers",
@@ -1143,7 +1231,7 @@
         "url": "https://open.kattis.com/problems/jollyjumpers",
         "difficulty_name": "Medium",
         "difficulty_rating": "3.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Judging Moose",
@@ -1154,7 +1242,7 @@
         "url": "https://open.kattis.com/problems/judgingmoose",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Jumbled Compass",
@@ -1165,7 +1253,7 @@
         "url": "https://open.kattis.com/problems/compass",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.0",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Jumbo Javelin",
@@ -1176,7 +1264,7 @@
         "url": "https://open.kattis.com/problems/jumbojavelin",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Karte",
@@ -1187,7 +1275,7 @@
         "url": "https://open.kattis.com/problems/karte",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.6",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Kiki Boba",
@@ -1198,7 +1286,7 @@
         "url": "https://open.kattis.com/problems/kikiboba",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.2 - 1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Knight Packing",
@@ -1209,7 +1297,7 @@
         "url": "https://open.kattis.com/problems/knightpacking",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.2",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Knot Knowledge",
@@ -1220,7 +1308,7 @@
         "url": "https://open.kattis.com/problems/knotknowledge",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Ladder",
@@ -1231,7 +1319,7 @@
         "url": "https://open.kattis.com/problems/ladder",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Last Factorial Digit",
@@ -1242,7 +1330,7 @@
         "url": "https://open.kattis.com/problems/lastfactorialdigit",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Left Beehind",
@@ -1253,7 +1341,7 @@
         "url": "https://open.kattis.com/problems/leftbeehind",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.9",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Leggja saman",
@@ -1264,7 +1352,7 @@
         "url": "https://open.kattis.com/problems/leggjasaman",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.2",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "License to Launch",
@@ -1275,7 +1363,7 @@
         "url": "https://open.kattis.com/problems/licensetolaunch",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.6",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Line Them Up",
@@ -1286,7 +1374,7 @@
         "url": "https://open.kattis.com/problems/lineup",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.7",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Lost Lineup",
@@ -1296,8 +1384,8 @@
         ],
         "url": "https://open.kattis.com/problems/lostlineup",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.6",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.7",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Luhn's Checksum Algorithm",
@@ -1307,8 +1395,8 @@
         ],
         "url": "https://open.kattis.com/problems/luhnchecksum",
         "difficulty_name": "Easy",
-        "difficulty_rating": "2.0",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.9",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Magic Trick",
@@ -1319,7 +1407,7 @@
         "url": "https://open.kattis.com/problems/magictrick",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Memory Match",
@@ -1329,8 +1417,8 @@
         ],
         "url": "https://open.kattis.com/problems/memorymatch",
         "difficulty_name": "Medium",
-        "difficulty_rating": "4.1",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "4.0",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Message",
@@ -1341,7 +1429,7 @@
         "url": "https://open.kattis.com/problems/meddelande",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4 - 1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Metronome",
@@ -1352,7 +1440,7 @@
         "url": "https://open.kattis.com/problems/metronome",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.2",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Mia",
@@ -1363,7 +1451,7 @@
         "url": "https://open.kattis.com/problems/mia",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.2",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Millif\u00e6rsla",
@@ -1374,7 +1462,7 @@
         "url": "https://open.kattis.com/problems/millifaersla",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.2",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Missing Numbers",
@@ -1385,7 +1473,7 @@
         "url": "https://open.kattis.com/problems/missingnumbers",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.8",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Modulo",
@@ -1396,7 +1484,7 @@
         "url": "https://open.kattis.com/problems/modulo",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Monopoly",
@@ -1407,7 +1495,7 @@
         "url": "https://open.kattis.com/problems/monopol",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Moscow Dream",
@@ -1418,7 +1506,7 @@
         "url": "https://open.kattis.com/problems/moscowdream",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.0",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Mosquito Multiplication",
@@ -1429,7 +1517,7 @@
         "url": "https://open.kattis.com/problems/mosquito",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.9",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "N-sum",
@@ -1440,7 +1528,7 @@
         "url": "https://open.kattis.com/problems/nsum",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Nasty Hacks",
@@ -1451,7 +1539,7 @@
         "url": "https://open.kattis.com/problems/nastyhacks",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "No Duplicates",
@@ -1462,7 +1550,7 @@
         "url": "https://open.kattis.com/problems/nodup",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Number Fun",
@@ -1473,7 +1561,7 @@
         "url": "https://open.kattis.com/problems/numberfun",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Odd Echo",
@@ -1484,7 +1572,7 @@
         "url": "https://open.kattis.com/problems/oddecho",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Odd Gnome",
@@ -1495,7 +1583,7 @@
         "url": "https://open.kattis.com/problems/oddgnome",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.8",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Odd Man Out",
@@ -1506,7 +1594,7 @@
         "url": "https://open.kattis.com/problems/oddmanout",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Oddities",
@@ -1517,7 +1605,7 @@
         "url": "https://open.kattis.com/problems/oddities",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "One Chicken Per Person\u01c3",
@@ -1527,8 +1615,8 @@
         ],
         "url": "https://open.kattis.com/problems/onechicken",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.8",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.9",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Parking",
@@ -1539,7 +1627,7 @@
         "url": "https://open.kattis.com/problems/parking",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.0",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Path Tracing",
@@ -1549,8 +1637,8 @@
         ],
         "url": "https://open.kattis.com/problems/pathtracing",
         "difficulty_name": "Medium",
-        "difficulty_rating": "3.0",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "3.1",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Pea Soup and Pancakes",
@@ -1561,7 +1649,7 @@
         "url": "https://open.kattis.com/problems/peasoup",
         "difficulty_name": "Medium",
         "difficulty_rating": "2.9",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Pet",
@@ -1572,7 +1660,7 @@
         "url": "https://open.kattis.com/problems/pet",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Piece of Cake\u01c3",
@@ -1583,7 +1671,7 @@
         "url": "https://open.kattis.com/problems/pieceofcake2",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Planina",
@@ -1593,8 +1681,8 @@
         ],
         "url": "https://open.kattis.com/problems/planina",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.6",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Pokechat",
@@ -1605,7 +1693,7 @@
         "url": "https://open.kattis.com/problems/pokechat",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Poker Hand",
@@ -1616,7 +1704,7 @@
         "url": "https://open.kattis.com/problems/pokerhand",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Popular Vote",
@@ -1627,7 +1715,7 @@
         "url": "https://open.kattis.com/problems/vote",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.1",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Pot",
@@ -1638,7 +1726,7 @@
         "url": "https://open.kattis.com/problems/pot",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Preludes",
@@ -1649,7 +1737,7 @@
         "url": "https://open.kattis.com/problems/chopin",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.9",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Prerequisites?",
@@ -1660,7 +1748,7 @@
         "url": "https://open.kattis.com/problems/prerequisites",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.0",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Prj\u00f3namynstur",
@@ -1671,7 +1759,7 @@
         "url": "https://open.kattis.com/problems/prjonamynstur",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.3 - 1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Provinces and Gold",
@@ -1682,7 +1770,7 @@
         "url": "https://open.kattis.com/problems/provincesandgold",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Ptice",
@@ -1693,7 +1781,7 @@
         "url": "https://open.kattis.com/problems/ptice",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.6",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Quadrant Selection",
@@ -1704,7 +1792,7 @@
         "url": "https://open.kattis.com/problems/quadrant",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.2",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Quality-Adjusted Life-Year",
@@ -1715,7 +1803,7 @@
         "url": "https://open.kattis.com/problems/qaly",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "R2",
@@ -1726,7 +1814,7 @@
         "url": "https://open.kattis.com/problems/r2",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Reduplication",
@@ -1737,7 +1825,7 @@
         "url": "https://open.kattis.com/problems/reduplikation",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.2",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Reversed Binary Numbers",
@@ -1747,8 +1835,8 @@
         ],
         "url": "https://open.kattis.com/problems/reversebinary",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Roaming Romans",
@@ -1759,7 +1847,7 @@
         "url": "https://open.kattis.com/problems/romans",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.7",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Rock, Scissors, Paper",
@@ -1770,7 +1858,7 @@
         "url": "https://open.kattis.com/problems/rockscissorspaper",
         "difficulty_name": "Medium",
         "difficulty_rating": "4.4",
-        "last_updated": "2024-02-02"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Rock-Paper-Scissors Tournament",
@@ -1781,7 +1869,7 @@
         "url": "https://open.kattis.com/problems/rockpaperscissors",
         "difficulty_name": "Medium",
         "difficulty_rating": "4.0",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Room Painting",
@@ -1792,7 +1880,7 @@
         "url": "https://open.kattis.com/problems/roompainting",
         "difficulty_name": "Medium",
         "difficulty_rating": "2.9",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "SMIL",
@@ -1803,7 +1891,7 @@
         "url": "https://open.kattis.com/problems/smil",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4 - 1.6",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Seven Wonders",
@@ -1813,8 +1901,8 @@
         ],
         "url": "https://open.kattis.com/problems/sevenwonders",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.6",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Shattered Cake",
@@ -1824,8 +1912,8 @@
         ],
         "url": "https://open.kattis.com/problems/shatteredcake",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.6",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Shuffling Along",
@@ -1836,7 +1924,7 @@
         "url": "https://open.kattis.com/problems/shuffling",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.7",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Sibice",
@@ -1847,7 +1935,7 @@
         "url": "https://open.kattis.com/problems/sibice",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Sim",
@@ -1858,7 +1946,7 @@
         "url": "https://open.kattis.com/problems/sim",
         "difficulty_name": "Medium",
         "difficulty_rating": "3.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Sith",
@@ -1868,8 +1956,8 @@
         ],
         "url": "https://open.kattis.com/problems/sith",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Skammst\u00f6fun",
@@ -1880,7 +1968,7 @@
         "url": "https://open.kattis.com/problems/skammstofun",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.3 - 1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Sok",
@@ -1891,7 +1979,7 @@
         "url": "https://open.kattis.com/problems/sok",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.9",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Solving for Carrots",
@@ -1901,8 +1989,8 @@
         ],
         "url": "https://open.kattis.com/problems/carrots",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Sort Two Numbers",
@@ -1912,8 +2000,8 @@
         ],
         "url": "https://open.kattis.com/problems/sorttwonumbers",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.3",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Spavanac",
@@ -1924,7 +2012,7 @@
         "url": "https://open.kattis.com/problems/spavanac",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Speed Limit",
@@ -1935,7 +2023,7 @@
         "url": "https://open.kattis.com/problems/speedlimit",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.6",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Spritt",
@@ -1946,7 +2034,7 @@
         "url": "https://open.kattis.com/problems/spritt",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Stand on Zanzibar",
@@ -1957,7 +2045,7 @@
         "url": "https://open.kattis.com/problems/zanzibar",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Star Arrangements",
@@ -1968,7 +2056,7 @@
         "url": "https://open.kattis.com/problems/stararrangements",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.7",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Statistics",
@@ -1979,7 +2067,7 @@
         "url": "https://open.kattis.com/problems/statistics",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.8",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Stuck In A Time Loop",
@@ -1990,7 +2078,7 @@
         "url": "https://open.kattis.com/problems/timeloop",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Sum Squared Digits Function",
@@ -2001,7 +2089,7 @@
         "url": "https://open.kattis.com/problems/sumsquareddigits",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "S\u00f3ttkv\u00ed",
@@ -2012,7 +2100,7 @@
         "url": "https://open.kattis.com/problems/sottkvi",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Take Two Stones",
@@ -2023,7 +2111,7 @@
         "url": "https://open.kattis.com/problems/twostones",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.2",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Tarifa",
@@ -2034,7 +2122,7 @@
         "url": "https://open.kattis.com/problems/tarifa",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Thanos",
@@ -2044,8 +2132,8 @@
         ],
         "url": "https://open.kattis.com/problems/thanos",
         "difficulty_name": "Easy",
-        "difficulty_rating": "2.3",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "2.4",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "The Last Problem",
@@ -2056,7 +2144,7 @@
         "url": "https://open.kattis.com/problems/thelastproblem",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Tic Tac Toe",
@@ -2067,7 +2155,7 @@
         "url": "https://open.kattis.com/problems/tictactoe2",
         "difficulty_name": "Medium",
         "difficulty_rating": "5.1",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Time Travelling Temperatures",
@@ -2078,7 +2166,7 @@
         "url": "https://open.kattis.com/problems/temperature",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Toilet Seat",
@@ -2089,7 +2177,7 @@
         "url": "https://open.kattis.com/problems/toilet",
         "difficulty_name": "Easy",
         "difficulty_rating": "2.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Train Passengers",
@@ -2099,8 +2187,8 @@
         ],
         "url": "https://open.kattis.com/problems/trainpassengers",
         "difficulty_name": "Medium",
-        "difficulty_rating": "3.1",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "3.0",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Transit Woes",
@@ -2110,8 +2198,8 @@
         ],
         "url": "https://open.kattis.com/problems/transitwoes",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.6",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.5",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Treasure Hunt",
@@ -2122,7 +2210,7 @@
         "url": "https://open.kattis.com/problems/treasurehunt",
         "difficulty_name": "Medium",
         "difficulty_rating": "2.9",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Triangle Area",
@@ -2133,19 +2221,19 @@
         "url": "https://open.kattis.com/problems/triarea",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Triangle Containment",
         "filename": "trianglecontainment",
         "languages": [
-            "Python",
-            "C++"
+            "C++",
+            "Python"
         ],
         "url": "https://open.kattis.com/problems/trianglecontainment",
         "difficulty_name": "Hard",
         "difficulty_rating": "6.7",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Trik",
@@ -2156,7 +2244,7 @@
         "url": "https://open.kattis.com/problems/trik",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Turtle Master",
@@ -2167,7 +2255,7 @@
         "url": "https://open.kattis.com/problems/turtlemaster",
         "difficulty_name": "Medium",
         "difficulty_rating": "3.0",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Two-sum",
@@ -2177,8 +2265,8 @@
         ],
         "url": "https://open.kattis.com/problems/twosum",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.3",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.4",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "T\u00f6lvunarfr\u00e6\u00f0ingar telja",
@@ -2189,7 +2277,7 @@
         "url": "https://open.kattis.com/problems/tolvunarfraedingartelja",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.2",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Umfer\u00f0",
@@ -2199,8 +2287,8 @@
         ],
         "url": "https://open.kattis.com/problems/umferd",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.3 - 1.4",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.3",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Undead or Alive",
@@ -2211,7 +2299,7 @@
         "url": "https://open.kattis.com/problems/undeadoralive",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Vef\u00fej\u00f3natj\u00f3n",
@@ -2222,7 +2310,7 @@
         "url": "https://open.kattis.com/problems/vefthjonatjon",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Velkomin!",
@@ -2233,7 +2321,7 @@
         "url": "https://open.kattis.com/problems/velkomin",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.1",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Ve\u00f0ur - Loka\u00f0ar hei\u00f0ar",
@@ -2244,7 +2332,7 @@
         "url": "https://open.kattis.com/problems/vedurheidar",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Vi\u00f0sn\u00faningur",
@@ -2255,19 +2343,19 @@
         "url": "https://open.kattis.com/problems/vidsnuningur",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.2",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Volim",
         "filename": "volim",
         "languages": [
-            "C++",
-            "Python"
+            "Python",
+            "C++"
         ],
         "url": "https://open.kattis.com/problems/volim",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.8",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "WERTYU",
@@ -2278,7 +2366,7 @@
         "url": "https://open.kattis.com/problems/wertyu",
         "difficulty_name": "Medium",
         "difficulty_rating": "3.2",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Weak Vertices",
@@ -2289,7 +2377,7 @@
         "url": "https://open.kattis.com/problems/weakvertices",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.5",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Which is Greater?",
@@ -2300,7 +2388,7 @@
         "url": "https://open.kattis.com/problems/whichisgreater",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Yin and Yang Stones",
@@ -2311,7 +2399,7 @@
         "url": "https://open.kattis.com/problems/yinyangstones",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.8",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "Zamka",
@@ -2322,7 +2410,7 @@
         "url": "https://open.kattis.com/problems/zamka",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.4",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     },
     {
         "name": "\u00c1 lei\u00f0 \u00ed b\u00ed\u00f3",
@@ -2332,8 +2420,8 @@
         ],
         "url": "https://open.kattis.com/problems/aleidibio",
         "difficulty_name": "Easy",
-        "difficulty_rating": "1.1",
-        "last_updated": "2024-02-08"
+        "difficulty_rating": "1.2",
+        "last_updated": "2024-02-16"
     },
     {
         "name": "\u00d3vissa",
@@ -2344,6 +2432,6 @@
         "url": "https://open.kattis.com/problems/ovissa",
         "difficulty_name": "Easy",
         "difficulty_rating": "1.2 - 1.3",
-        "last_updated": "2024-02-08"
+        "last_updated": "2024-02-16"
     }
 ]
