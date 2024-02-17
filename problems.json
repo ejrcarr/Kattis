@@ -385,6 +385,17 @@
         "last_updated": "2024-02-16"
     },
     {
+        "name": "Bungee Builder",
+        "filename": "bungeebuilder",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/bungeebuilder",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "3.5",
+        "last_updated": "2024-02-17"
+    },
+    {
         "name": "Calories From Fat",
         "filename": "calories",
         "languages": [
@@ -771,6 +782,17 @@
         "last_updated": "2024-02-16"
     },
     {
+        "name": "Even Up Solitaire",
+        "filename": "evenup",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/evenup",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.7",
+        "last_updated": "2024-02-17"
+    },
+    {
         "name": "Event Planning",
         "filename": "eventplanning",
         "languages": [
@@ -945,6 +967,17 @@
         "difficulty_name": "Medium",
         "difficulty_rating": "3.5",
         "last_updated": "2024-02-16"
+    },
+    {
+        "name": "Game of Throwns",
+        "filename": "throwns",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/throwns",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.6",
+        "last_updated": "2024-02-17"
     },
     {
         "name": "Goomba Stacks",
@@ -1223,6 +1256,17 @@
         "last_updated": "2024-02-16"
     },
     {
+        "name": "Join Strings",
+        "filename": "joinstrings",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/joinstrings",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "4.9",
+        "last_updated": "2024-02-17"
+    },
+    {
         "name": "Jolly Jumpers",
         "filename": "jollyjumpers",
         "languages": [
@@ -1410,6 +1454,17 @@
         "last_updated": "2024-02-16"
     },
     {
+        "name": "Mastering Mastermind",
+        "filename": "mastermind",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/mastermind",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.7",
+        "last_updated": "2024-02-17"
+    },
+    {
         "name": "Memory Match",
         "filename": "memorymatch",
         "languages": [
@@ -1564,6 +1619,17 @@
         "last_updated": "2024-02-16"
     },
     {
+        "name": "Numbers On a Tree",
+        "filename": "numbertree",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/numbertree",
+        "difficulty_name": "Easy",
+        "difficulty_rating": "2.5",
+        "last_updated": "2024-02-17"
+    },
+    {
         "name": "Odd Echo",
         "filename": "oddecho",
         "languages": [
@@ -1617,6 +1683,17 @@
         "difficulty_name": "Easy",
         "difficulty_rating": "1.9",
         "last_updated": "2024-02-16"
+    },
+    {
+        "name": "Pairing Socks",
+        "filename": "pairingsocks",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/pairingsocks",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "2.8",
+        "last_updated": "2024-02-17"
     },
     {
         "name": "Parking",
@@ -2389,6 +2466,17 @@
         "difficulty_name": "Easy",
         "difficulty_rating": "1.3",
         "last_updated": "2024-02-16"
+    },
+    {
+        "name": "Working at the Restaurant",
+        "filename": "restaurant",
+        "languages": [
+            "C++"
+        ],
+        "url": "https://open.kattis.com/problems/restaurant",
+        "difficulty_name": "Medium",
+        "difficulty_rating": "4.3",
+        "last_updated": "2024-02-17"
     },
     {
         "name": "Yin and Yang Stones",
