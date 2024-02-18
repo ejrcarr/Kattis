@@ -6,6 +6,9 @@ on:
       - main
     paths-ignore:
       - 'README.md'
+      - 'LICENSE'
+      - '.github/CONTRIBUTING.md'
+      - '.github/workflows/update-readme.yml'
       - 'problems.json'
 
 jobs:
