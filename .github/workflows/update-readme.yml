@@ -4,14 +4,13 @@ on:
   push:
     branches:
       - main
-    paths-ignore:
-      - 'README.md'
-      - 'LICENSE'
-      - 'CODE_OF_CONDUCT.md'
-      - '.github/CONTRIBUTING.md'
-      - '.github/ISSUE_TEMPLATE'
-      - '.github/workflows/update-readme.yml'
-      - 'problems.json'
+    paths:
+      - 'Solutions/**'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'Solutions/**'
 
 jobs:
   update-readme:
