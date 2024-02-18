@@ -8,6 +8,7 @@ on:
       - 'README.md'
       - 'LICENSE'
       - '.github/CONTRIBUTING.md'
+      - '.github/ISSUE_TEMPLATE'
       - '.github/workflows/update-readme.yml'
       - 'problems.json'
 
